@@ -69,8 +69,7 @@ relatório
 ────────────────────────────────────────────────────
 🎯 OBJETIVO DO PROJETO
 ────────────────────────────────────────────────────
-Criado para servir como base de estudos e aplicações
-reais, o projeto pode ser utilizado para:
+Criado para servir em meu ambiente de trabalho atualmente e como base de estudos, o projeto pode ser utilizado para:
 
 • Controle financeiro simples
 • Desenvolvimento de chatbots
