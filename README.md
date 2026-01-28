@@ -1,2 +1,81 @@
-# Gestor-Financeiro-chatBot
-Gestor Financeiro é um chatbot corporativo para controle de entradas e saídas financeiras via WhatsApp. Permite registrar transações em tempo real, consultar resumos, calcular saldo automaticamente e gerar relatórios profissionais em PDF, com acesso restrito a usuários autorizados e foco em gestão simples, segura e eficiente.
+```txt
+████████████████████████████████████████████████████
+      █ GESTOR FINANCEIRO CHATBOT 🤖   █
+████████████████████████████████████████████████████
+
+Sistema de chatbot para controle financeiro empresarial.
+Permite registrar entradas e saídas de caixa de forma
+simples, rápida e organizada, utilizando comandos diretos
+e armazenamento local.
+
+Projeto ideal para automação financeira, estudos em Node.js
+e integração com plataformas de mensagens.
+
+────────────────────────────────────────────────────
+🚀 FUNCIONALIDADES
+────────────────────────────────────────────────────
+• Registro de entradas financeiras (+)
+• Registro de saídas financeiras (-)
+• Cálculo automático de saldo
+• Armazenamento persistente em JSON
+• Estrutura preparada para chatbot
+• Base para geração de relatórios
+• Comandos simples e intuitivos
+
+────────────────────────────────────────────────────
+🛠️ TECNOLOGIAS UTILIZADAS
+────────────────────────────────────────────────────
+• Node.js
+• JavaScript
+• JSON
+• Git
+• GitHub
+
+────────────────────────────────────────────────────
+📁 ESTRUTURA DO PROJETO
+────────────────────────────────────────────────────
+Gestor-Financeiro-chatBot/
+├── index.js
+├── gestao_dados.json
+├── package.json
+├── package-lock.json
+└── README.md
+
+────────────────────────────────────────────────────
+▶️ COMO EXECUTAR O PROJETO
+────────────────────────────────────────────────────
+
+# 1. Clonar o repositório
+git clone https://github.com/barrosGuih/Gestor-Financeiro-chatBot.git
+
+# 2. Acessar a pasta do projeto
+cd Gestor-Financeiro-chatBot
+
+# 3. Instalar as dependências
+npm install
+
+# 4. Executar o sistema
+node index.js
+
+────────────────────────────────────────────────────
+💡 EXEMPLOS DE USO
+────────────────────────────────────────────────────
+
++ 250 Venda de serviço
+- 100 Compra de peças
+saldo
+relatório
+
+────────────────────────────────────────────────────
+🎯 OBJETIVO DO PROJETO
+────────────────────────────────────────────────────
+Criado para servir como base de estudos e aplicações
+reais, o projeto pode ser utilizado para:
+
+• Controle financeiro simples
+• Desenvolvimento de chatbots
+• Automação de caixa
+• Projetos pessoais ou comerciais
+
+████████████████████████████████████████████████████
+```
