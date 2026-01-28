@@ -39,7 +39,7 @@ async function initializeBot() {
         if (connection === 'close') {
             const statusCode = (lastDisconnect?.error instanceof Boom) ? lastDisconnect.error.output.statusCode : 0;
             if (statusCode !== DisconnectReason.loggedOut) {
-                console.log('🔄 Conexão instável, reconectando...');
+                console.log('🔄 Conexão instável, reconectando....');
                 setTimeout(() => initializeBot(), 3000);
             }
         } else if (connection === 'open') {
